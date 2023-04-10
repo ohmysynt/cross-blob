@@ -1,2 +1,2 @@
-/* global window */
-export default window.Blob
+/* global Blob */
+export default Blob
