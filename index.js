@@ -1,3 +1,3 @@
-import { Blob } from "fetch-blob"
+import { Blob } from "node:buffer"
 
 export default Blob

@@ -1,3 +1,2 @@
-import { Blob } from "blob-polyfill"
-
-export default Blob
+/* global window */
+export default window.Blob

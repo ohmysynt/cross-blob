@@ -1,6 +1,6 @@
 {
 	"name": "cross-blob",
-	"version": "3.0.2",
+	"version": "4.0.0",
 	"description": "Cross-platform Blob implementation for NodeJS and the Web.",
 	"repository": "https://github.com/Richienb/cross-blob.git",
 	"author": "Richie Bendall <richiebendall@gmail.com>",
@@ -35,10 +35,7 @@
 		"env",
 		"environment"
 	],
-	"dependencies": {
-		"blob-polyfill": "^7.0.20220408",
-		"fetch-blob": "^3.2.0"
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"ava": "^3.15.0",
 		"eslint-config-richienb": "^0.6.2",
